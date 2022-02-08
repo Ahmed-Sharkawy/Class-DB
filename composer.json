@@ -1,0 +1,20 @@
+{
+    "name": "ahmedmaher0/maher",
+    "description": "ahmed maher",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ahmed\\Maher\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed-Sharkawy",
+            "email": "ahmedmaher0110@gmail.com"
+        }
+    ],
+    "require": {
+        "php":"^7.3.21|^8.0"
+    }
+}
