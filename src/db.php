@@ -13,7 +13,7 @@ class db
     $this->coon = new \mysqli($data[0], $data[1], $data[2], $data[3]);
   }
 
-  public function slect($table, $column = "*")
+  public function select($table, $column = "*")
   {
     $this->sql = "SELECT $column FROM `$table` ";
     return $this;
