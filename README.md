@@ -1,6 +1,6 @@
 #  class-db
 
-class-db is a small php wrapper for mysql databases.
+class-DB is a small PHP wrapper for MySQL databases in which I used object-oriented programming (OOP) in my industry to make it easier for him to deal with the database in an easy and well-organized way and makes it easy for anyone to use and anyone can use it. I uploaded it to (Packagist (Composer) ) And after you read the summary of what the class does, it's time to learn how to download and run it.
 
 ## installation
 
